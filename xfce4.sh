@@ -8,7 +8,7 @@ nohup ./ngrok tcp 3389 &>/dev/null &
 echo đang tải hệ thống...
 echo "===================================="
 echo "chờ 2 phút..."
-echo "xắp xong rùi
+echo "xắp xong rùi"
 echo "=]"
 echo "===================================="
 sudo apt-get update > /dev/null 2>&1
